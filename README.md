@@ -1,4 +1,4 @@
-# php-js-unparker
+# php-js-unpacker
 sử dụng hàm 
 ```
  // where $packedJS is the packed JavaScript that begins with 
