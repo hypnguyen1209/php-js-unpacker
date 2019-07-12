@@ -5,5 +5,5 @@ sử dụng hàm
  // eval(p,a,c,k,e,d) or eval(p,a,c,k,e,r)
 
  $unpacker = new JavaScriptUnpacker();
- $unpacked = $myPacker->Unpack($packedJs);
+ $unpacked = $unacker->Unpack($packedJs);
 ```
